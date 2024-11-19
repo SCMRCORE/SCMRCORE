@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/SCMRCORE">
-    <img height=155 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=vue" />
+    <img height=159 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=vue" />
   </a>
     <!-- <a href="https://github.com/SCMRCORE">
 <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
@@ -36,7 +36,7 @@
 <img height=120 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=true&border_radius=5"/>
   </a> -->
   <a href="https://github.com/SCMRCORE">
-    <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=130&theme=vue" />
+    <img height=159 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=130&theme=vue" />
   </a>
 </p>
 

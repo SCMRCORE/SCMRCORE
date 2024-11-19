@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=7ADFA5FF&vCenter=true&repeat=true&width=435&lines=Welcome+to+MRCORE+GitHub+profile+." />
+    <img width="850" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=7ADFA5FF&vCenter=true&repeat=true&width=435&lines=Welcome+to+MRCORE+GitHub+profile+." />
 </p>
 
 <p align="center"> 
@@ -23,17 +23,14 @@
 <p align="center">
   <a href="https://github.com/SCMRCORE">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=vue" />
-  </a>
+  <!-- </a>
     <a href="https://github.com/SCMRCORE">
 <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
-  </a>
-  <!-- <a href="https://github.com/SCMRCORE">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=130&theme=vue" />
   </a> -->
+  <a href="https://github.com/SCMRCORE">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=130&theme=vue" />
+  </a>
 </p>
-<!-- <p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
-</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCMRCORE/SCMRCORE/output/github-contribution-grid-snake-dark.svg">

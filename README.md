@@ -1,28 +1,28 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p> -->
-
-
 <p align="center">
-    <img width="900" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=7ADFA5FF&vCenter=true&repeat=true&width=435&lines=Welcome+to+MRCORE+GitHub+profile+." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
+
+
+<!-- <p align="center">
+    <img width="900" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=7ADFA5FF&vCenter=true&repeat=true&width=435&lines=Welcome+to+MRCORE+GitHub+profile+." />
+</p> -->
 
 <p align="center"> 
       &emsp;&emsp;
       <!-- 前端 -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp; -->
+      <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <!-- <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp; -->
       <!-- <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp; -->
       <!-- 后端和数据库 -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white"></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white"></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github"></a>&emsp; -->
-      <!-- <a href=""><img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white"></a>&emsp; -->
+      <a href=""><img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white"></a>&emsp;
 </p>
 
 <p align="center">
